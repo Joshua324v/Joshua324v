@@ -7,6 +7,15 @@
 
     <p>On this GitHub, I like to share pictures of my badminton trainings and some photos about my life. </p>
 
+<img src="https://i.pinimg.com/originals/12/be/0c/12be0c69d3b81f86d9e6fada71233d1d.jpg">
+
+<h2>Things I like to do:</h2>
+  <ul>
+    <li>Play basketball and badminton</li>
+    <li>Learn about biology and nature</li>
+  </ul>
+
     <p>Thanks for visiting my profile!</p>
+    
   </body>
 </html>
